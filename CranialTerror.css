@@ -1,0 +1,32 @@
+body{
+  background-color:#1E0B13;
+  width:100%
+  }
+img{
+  width:80%;
+  max-width:700px;
+  border-radius:1%;
+  margin:auto;
+  display:block;
+  }
+.but{
+  max-width:700px;
+  border:4px solid #7D250E;
+  border-radius:10px;
+  display:block;
+  width:80%;
+  text-align:center;
+  margin: auto;
+  color: #7D250E;
+  padding:5px;
+  text-decoration:none;
+  }
+.but:hover{
+  border:4px solid #7D250E;
+  border-radius:10px;
+  background-color: #7D250E;
+  color:#1E0B13;
+  }
+a{
+    text-decoration:none;
+  }
